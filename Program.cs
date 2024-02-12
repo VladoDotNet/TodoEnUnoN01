@@ -10,7 +10,7 @@ namespace BorrarPolimorfismo
   {
     static void Main(string[] args)
     {
-      // 
+      // ghjfhj
     }
   }
 }
